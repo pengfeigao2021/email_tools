@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """ read imap
-
+https://www.thepythoncode.com/article/reading-emails-in-python
 
 author: pengfei
 copyright: Copyright 2022.03.06
